@@ -207,6 +207,6 @@ Continuously improving my problem-solving through C++ and Java while exploring d
 ###  Fun Fact
 *"In the vast universe of code, every problem is just a star waiting to be discovered!"*
 
-**⭐ From [sabariyuhendh](https://github.com/sabariyuhendh)**
+**⭐ From [Sangeeth M](https://github.com/sangeethmarisamy)**
 
 </div>
