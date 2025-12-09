@@ -126,13 +126,13 @@ Continuously improving my problem-solving through C++ and Java while exploring d
 
 ##  DSA & Problem Solving Achievements
 
-###  **1207+ Problems Solved Across Platforms**
+###  **300+ Problems Solved Across Platforms**
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 27 | 1396 |
+| **LeetCode** | 27 | 1468 |
 | **CodeChef** | 315 | 1138 |
-| **CodeForces** | 1 | 363 |
+| **CodeForces** | - | 363 |
 | **GeeksForGeeks** | - | - |
 
 ##  GitHub Analytics
