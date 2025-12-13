@@ -130,7 +130,7 @@ Continuously improving my problem-solving through C++ and Java while exploring d
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 27 | 1468 |
+| **LeetCode** | 42 | 1468 |
 | **CodeChef** | 315 | 1138 |
 | **CodeForces** | - | 363 |
 | **GeeksForGeeks** | - | - |
